@@ -18,7 +18,7 @@
 - Firefox：安装 [Greasemonkey](https://www.greasespot.net/)
 
 ### 2. 安装脚本
-1. 复制本仓库中 `hfut-campus-auto-login.user.js` 完整代码
+1. 复制本仓库中 `hfit-campus-network-auto-login.uesr.js` 完整代码
 2. 打开油猴插件 → 「添加新脚本」
 3. 粘贴代码 → 「文件」→「保存」
 
